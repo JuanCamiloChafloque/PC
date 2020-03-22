@@ -1,0 +1,13 @@
+El Fuego Invisible,imagenes\ElFuegoInvisible.jpg
+Niebla en Tanger,imagenes\NieblaenTanger.jpg
+Harry Potter,imagenes\HarryPotter.jpg
+Los Juegos del Hambre,imagenes\LosJuegosdelHambre.jpg
+El Resplandor,imagenes\ElResplandor.jpg
+Dracula,imagenes\Dracula.jpg
+El Señor de Los Anillos,imagenes\ElSeñordeLosAnillos.jpg
+Historia del Siglo XX,imagenes\HistoriadelSigloXX.jpg
+Diario de Ana Frank,imagenes\DiariodeAnaFrank.jpg
+El Gato Negro,imagenes\ElGatoNegro.jpg
+Bajo Cielos Lejanos,imagenes\BajoCielosLejanos.jpg
+Infierno de Hielo,imagenes\InfiernodeHielo.jpg
+Guerra y Paz,imagenes\GuerrayPaz.jpg

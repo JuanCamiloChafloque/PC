@@ -1,0 +1,10 @@
+Harry Potter,JK Rowling,195600,6,imagenes\HarryPotter.jpg
+El Señor de Los Anillos,JRR Tolkien,139200,4,imagenes\ElSeñordeLosAnillos.jpg
+Los Juegos del Hambre,Suzanne Collins,138800,4,imagenes\LosJuegosdelHambre.jpg
+Niebla en Tanger,Cristina Lopez,109000,5,imagenes\NieblaenTanger.jpg
+El Gato Negro,Edgar Allan Poe,71400,3,imagenes\ElGatoNegro.jpg
+El Resplandor,Stephen King,70400,4,imagenes\ElResplandor.jpg
+Diario de Ana Frank,Ana Frank,53600,4,imagenes\DiariodeAnaFrank.jpg
+Guerra y Paz,Leon Tolstoi,49400,2,imagenes\GuerrayPaz.jpg
+Infierno de Hielo,Douglas Preston,26600,2,imagenes\InfiernodeHielo.jpg
+Historia del Siglo XX,Eric Hobsbawm,13200,1,imagenes\HistoriadelSigloXX.jpg

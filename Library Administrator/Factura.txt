@@ -1,0 +1,37 @@
+2017/11/17,Miguel Uribe,Niebla en Tanger,Cristina Lopez,21800,Medellin
+2017/11/17,Juan Camilo Chafloque,Harry Potter,JK Rowling,32600,Bogota
+2017/11/17,Hernando Hurtado,Diario de Ana Frank,Ana Frank,13400,Medellin
+2017/11/17,Gabriel Forero,Historia del Siglo XX,Eric Hobsbawm,13200,Cali
+2017/11/18,Luisa Castillo,Los Juegos del Hambre,Suzanne Collins,34700,Bogota
+2017/11/18,Luisa Castillo,Los Juegos del Hambre,Suzanne Collins,34700,Bogota
+2017/11/19,Valentina Lopez,El Señor de Los Anillos,JRR Tolkien,34800,Medellin
+2017/11/21,Cristina Hernandez,Infierno de Hielo,Douglas Preston,13300,Cali
+2017/11/21,Cristina Hernandez,Los Juegos del Hambre,Suzanne Collins,34700,Bogota
+2017/11/21,Carolina Fernandez,Infierno de Hielo,Douglas Preston,13300,Cali
+2017/11/25,Laura Reyes,Harry Potter,JK Rowling,32600,Bogota
+2017/12/03,Julian Baquero,Niebla en Tanger,Cristina Lopez,21800,Medellin
+2017/12/03,Juan David Amaya,El Gato Negro,Edgar Allan Poe,23800,Medellin
+2017/12/03,Juan Camilo Velez,Harry Potter,JK Rowling,32600,Bogota
+2017/12/07,Martin Bustamante,Niebla en Tanger,Cristina Lopez,21800,Medellin
+2017/12/08,Beatriz Gutierrez,Harry Potter,JK Rowling,32600,Bogota
+2017/12/08,Matin Bustamante,El Resplandor,Stephen King,17600,Bogota
+2017/12/11,Juan Camilo Chafloque,Guerra y Paz,Leon Tolstoi,24700,Cali
+2017/12/19,Miguel Uribe,El Gato Negro,Edgar Allan Poe,23800,Medellin
+2017/12/19,Juan Sebastian Hoyos,El Resplandor,Stephen King,17600,Bogota
+2017/12/19,Daniel Tobar,El Señor de Los Anillos,JRR Tolkien,34800,Medellin
+2018/01/01,Daniel Tobar,Harry Potter,JK Rowling,32600,Bogota
+2018/01/01,Mateo Bravo,Niebla en Tanger,Cristina Lopez,21800,Medellin
+2018/01/03,Alejandra Castañeda,Diario de Ana Frank,Ana Frank,13400,Medellin
+2018/01/03,Diana Quijano,Niebla en Tanger,Cristina Lopez,21800,Medellin
+2018/01/06,Mateo Bravo,Bajo Cielos Lejanos,Sarah Lark,10100,Cali
+2018/01/06,Julio Mejia,Guerra y Paz,Leon Tolstoi,24700,Cali
+2018/01/09,Johnatan Hernandez,Diario de Ana Frank,Ana Frank,13400,Medellin
+2018/02/11,Oscar Ricaurte,El Señor de Los Anillos,JRR Tolkien,34800,Medellin
+2018/02/13,Maria Jose Castillo,El Resplandor,Stephen King,17600,Bogota
+2018/02/13,Maria Camila Cañon,El Señor de Los Anillos,JRR Tolkien,34800,Medellin
+2018/02/18,Santiago Vargas,Los Juegos del Hambre,Suzanne Collins,34700,Bogota
+2018/02/24,Valentina Lopez,El Resplandor,Stephen King,17600,Bogota
+2018/02/27,Jimena Pinilla,Diario de Ana Frank,Ana Frank,13400,Medellin
+2018/02/27,Julio Mejia,Dracula,Bram Stoker,12100,Bogota
+2018/02/30,Carolina Obando,Harry Potter,JK Rowling,32600,Bogota
+2018/02/30,Carolina Rodriguez,El Gato Negro,Edgar Allan Poe,23800,Medellin

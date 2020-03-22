@@ -1,0 +1,30 @@
+Bogota
+Fantasia
+El Fuego Invisible,Javier Sierra,3,15900
+Niebla en Tanger,Cristina Lopez,2,21800
+Ciencia Ficcion
+Harry Potter,JK Rowling,5,32600
+Los Juegos del Hambre,Suzanne Collins,1,34700
+Terror
+El Resplandor,Stephen King,2,17600
+Dracula,Bram Stoker,2,12100
+Medellin
+Fantasia
+El Señor de Los Anillos,JRR Tolkien,2,34800
+Niebla en Tanger,Cristina Lopez,2,21800
+Historia
+Historia del Siglo XX,Eric Hobsbawm,3,13200
+Diario de Ana Frank,Ana Frank,2,13400
+Terror
+El Gato Negro,Edgar Allan Poe,2,23800
+Dracula,Bram Stoker,2,12100
+Cali
+Accion
+Bajo Cielos Lejanos,Sarah Lark,2,10100
+Infierno de Hielo,Douglas Preston,3,13300
+Ciencia Ficcion
+Harry Potter,JK Rowling,5,32600
+Los Juegos del Hambre,Suzanne Collins,1,34700
+Historia
+Historia del Siglo XX,Eric Hobsbawm,3,13200
+Guerra y Paz,Leon Tolstoi,1,24700
